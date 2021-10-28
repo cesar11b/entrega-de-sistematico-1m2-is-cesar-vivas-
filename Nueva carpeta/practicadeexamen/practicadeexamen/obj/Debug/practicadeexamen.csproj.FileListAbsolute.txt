@@ -1,0 +1,11 @@
+C:\Users\8cviv\source\repos\practicadeexamen\practicadeexamen\bin\Debug\practicadeexamen.exe.config
+C:\Users\8cviv\source\repos\practicadeexamen\practicadeexamen\bin\Debug\practicadeexamen.exe
+C:\Users\8cviv\source\repos\practicadeexamen\practicadeexamen\bin\Debug\practicadeexamen.pdb
+C:\Users\8cviv\source\repos\practicadeexamen\practicadeexamen\obj\Debug\practicadeexamen.csproj.AssemblyReference.cache
+C:\Users\8cviv\source\repos\practicadeexamen\practicadeexamen\obj\Debug\practicadeexamen.Form1.resources
+C:\Users\8cviv\source\repos\practicadeexamen\practicadeexamen\obj\Debug\practicadeexamen.Properties.Resources.resources
+C:\Users\8cviv\source\repos\practicadeexamen\practicadeexamen\obj\Debug\practicadeexamen.csproj.GenerateResource.cache
+C:\Users\8cviv\source\repos\practicadeexamen\practicadeexamen\obj\Debug\practicadeexamen.csproj.CoreCompileInputs.cache
+C:\Users\8cviv\source\repos\practicadeexamen\practicadeexamen\obj\Debug\practicadeexamen.exe
+C:\Users\8cviv\source\repos\practicadeexamen\practicadeexamen\obj\Debug\practicadeexamen.pdb
+C:\Users\8cviv\source\repos\practicadeexamen\practicadeexamen\obj\Debug\practicadeexamen.Form2.resources
